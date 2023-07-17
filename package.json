@@ -284,3 +284,9 @@
     "**/*.{js,ts,tsx,md,mdx}": "npm run lint"
   }
 }
+
+{
+  "scripts": {
+    "chromatic": "chromatic"
+  }
+}
